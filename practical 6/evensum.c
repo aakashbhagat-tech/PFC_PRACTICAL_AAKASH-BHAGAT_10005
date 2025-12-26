@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>// Aakash bhagat //ERP - 10005
 int main(){
   int n,sum=0;
   printf("Enter limit: ");
@@ -12,3 +12,6 @@ int main(){
   printf("sum of even numbers = %d",sum);
   return 0;
 }
+// o/p :-
+// input - 10
+// output - 30

@@ -12,4 +12,5 @@ int main(){//Aakash bhagat //ERP - 10005
 }
 
 //o/p :
-//
+// input - 1111
+//wrong PIN
