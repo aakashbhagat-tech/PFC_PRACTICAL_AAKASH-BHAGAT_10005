@@ -32,4 +32,4 @@ int main() {
 // 1 2 3
 // 4 5 6
 // 7 8 9
-// Sum of diagonal elements = 15
+// Sum of diagonal elements are = 15
